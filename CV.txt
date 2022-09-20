@@ -1,0 +1,5 @@
+﻿11       |GIAM DOC           |0.5
+12       |PHO GIAM DOC       |0.5
+13       |TRUONG PHONG       |0.25
+14       |PHO PHONG          |0.25
+15       |NHAN VIEN          |0

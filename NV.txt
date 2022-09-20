@@ -1,0 +1,10 @@
+01110001       |TRAN THI         |NGOC     | 4/ 5/1985    |1          |01      |11      |2010       |DAI HOC
+04150002       |NGUYEN           |MINH     | 4/ 2/2002    |0          |04      |15      |2020       |DAI HOC
+04140003       |TRAN MINH        |HA       | 3/ 2/1998    |0          |04      |14      |2018       |DAI HOC
+01130004       |NGUYEN VAN       |KHOA     | 4/ 5/2095    |0          |01      |13      |2019       |DAI HOC
+01150005       |NGO THI          |ANH      | 9/ 2/2000    |1          |01      |15      |2020       |THPT
+02130006       |NGUYEN THI KIM   |CHI      | 8/ 8/2001    |1          |02      |13      |2020       |DAI HOC
+01120007       |HA VAN           |KHANH    | 9/ 8/1987    |0          |01      |12      |2015       |DAI HOC
+03150008       |TON GIA          |HUNG     | 4/ 5/1999    |0          |03      |15      |2020       |THPT
+01150009       |TRAN             |HUYEN    |10/ 5/2001    |1          |01      |15      |2020       |DAI HOC
+04150010       |NGUYEN           |MI       |24/ 3/2000    |1          |04      |15      |2020       |THPT
